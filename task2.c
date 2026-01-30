@@ -1,25 +1,3 @@
-/*
-===========================================================
- CODTECH Internship Task-2 (Advanced Level)
- Singly Linked List Implementation in C
-
- Features:
- 1. Insert at Beginning
- 2. Insert at End
- 3. Insert at Position
- 4. Delete from Beginning
- 5. Delete from End
- 6. Delete by Value
- 7. Search Element
- 8. Display List
- 9. Count Nodes
-10. Reverse List
-11. Sort List
-12. Free Entire List (Memory Cleanup)
-
-===========================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -383,3 +361,4 @@ int main() {
 
     return 0;
 }
+
