@@ -6,6 +6,18 @@ DOMAIN  : C LANGUAGE
 DURATION : 4 WEEKS
 MENTOR  : NEELA SANTOSH
 OUTPUT  :
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/31c7095d-0ec9-4047-8982-83f197b62622" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bfa1c9c7-f9a2-4866-91a0-a66b15de498f" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f03fc963-f86c-4aac-b5a1-b82de9fcaa44" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a71c142b-7f65-4225-96bf-e75852be9e28" />
+<img width="1919" height="1073" alt="Image" src="https://github.com/user-attachments/assets/9abc5fcf-d8e9-4a34-8f57-1ee818e1d81e" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5311106e-2baf-44b0-bc5d-cbdc8dd0fba1" />
+<img width="1912" height="1062" alt="Image" src="https://github.com/user-attachments/assets/4f2bb2f8-6ccb-489a-b783-550d36973b73" />
+<img width="1919" height="1063" alt="Image" src="https://github.com/user-attachments/assets/83263bc1-cf46-48a8-98f2-71b62a2a05b0" />
+<img width="1919" height="1067" alt="Image" src="https://github.com/user-attachments/assets/3f7cdaad-9a02-4fae-94c6-997384bfe6d7" />
+<img width="1908" height="1047" alt="Image" src="https://github.com/user-attachments/assets/9d673506-f56c-49f4-8532-9b5117a6da71" />
+<img width="1919" height="717" alt="Image" src="https://github.com/user-attachments/assets/5af481cd-3289-4846-ae03-175de2482a83" />
 
 
 DESCRIPTION :
